@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**kou-sato-ds/kou-sato-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ My Data Engineering Ecosystem
+```mermaid
+graph LR
+    subgraph "Data Platform (IaC)"
+        A[AWS S3 / Data Lake] --- B[Terraform]
+    end
+    subgraph "ML Pipeline"
+        B --> C[Data Pre-processing]
+        C --> D[Model Training / X.align]
+        D --> E[Evaluation / K-Fold]
+    end
+    subgraph "Outcome"
+        E --> F[Business Insight]
+    end
