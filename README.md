@@ -15,8 +15,8 @@
 ## 🛠️ Technical Stack & Ecosystem
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS]([https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white](https://github.com/kou-sato-ds/AWS_IaC_Terraform))
-![Terraform]([https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white](https://github.com/kou-sato-ds/AWS_IaC_Terraform/blob/main/modules/s3_bucket/main.tf))
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -33,9 +33,6 @@ graph LR
         D --> E[Model Training]
         E --> F[Business Insights]
     end
-````
-
------
 
 ## 📂 Active Projects
 
