@@ -15,8 +15,8 @@
 ## 🛠️ Technical Stack & Ecosystem
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS]([https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white](https://github.com/kou-sato-ds/AWS_IaC_Terraform))
+![Terraform]([https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white](https://github.com/kou-sato-ds/AWS_IaC_Terraform/blob/main/modules/s3_bucket/main.tf))
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -41,8 +41,8 @@ graph LR
 
 | 分野 | プロジェクト (Link) | 実装の核心 (Core Achievements) | Status |
 | :--- | :--- | :--- | :---: |
-| **Data Engineering** | [01\_DEA: AWS Infrastructure](https://www.google.com/search?q=./01_DEA) | **Terraform**によるS3データレイクの自動構築。権限管理とスケーラビリティを考慮したIaC実装。 | ✅ |
-| **Data Science** | [02\_Statistics\_L2: Data Quality](https://www.google.com/search?q=./02_Statistics_L2) | **1.5xIQR / 3σ法**を用いた統計的異常値検知。データ標準化（Z-score）による多変量解析の基盤構築。 | ✅ |
+| **Data Engineering** | [01\_DEA: AWS Infrastructure](https://github.com/kou-sato-ds/Mastering-DS-ML-Engineering/blob/main/01_DEA/README.md) | **Terraform**によるS3データレイクの自動構築。権限管理とスケーラビリティを考慮したIaC実装。 | ✅ |
+| **Data Science** | [02\_Statistics\_L2: Data Quality](https://github.com/kou-sato-ds/Mastering-DS-ML-Engineering/blob/main/02_Statistics_L2/README.md) | **1.5xIQR / 3σ法**を用いた統計的異常値検知。データ標準化（Z-score）による多変量解析の基盤構築。 | ✅ |
 | **ML Engineering** | (Under Construction) | モデルデプロイ、パイプラインの自動化、モニタリングの実装予定。 | 🚧 |
 
 -----
