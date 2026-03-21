@@ -4,7 +4,7 @@
 | Sprint | Period | Focus & Why | Status |
 | :--- | :--- | :--- | :--- |
 | **Sprint 1** | Q1 (Jan-Mar) | **Infrastructure & Stats**: データ品質を自動担保するS3/Terraform基盤と統計エンジンの構築 | ✅ Done |
-| **Sprint 2** | Q2 (Apr-Jun) | **Serverless ETL**: AWS Glue/Lambdaを用いた統計ロジックのサーバーレス化と自動化 | 🏃 In Progress |
+| **Sprint 2** | Q2 (Apr-Jun) | **Serverless ETL**: AWS Glue/Lambdaを用いた統計ロジックのサーバーレス化と自動化 | 🏃 In Progress (March 21- ) |
 | **Sprint 3** | Q3 (Jul-Sep) | **MLOps Integration**: SageMakerを用いたエンドツーエンドのMLパイプライン構築 | 📅 Planned |
 
 # 🚀 Data Engineering & ML Ops Sprint 2026
