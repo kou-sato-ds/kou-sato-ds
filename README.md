@@ -1,3 +1,12 @@
+## 🚀 2026 Strategic Development Sprint
+現在の活動スパイクは、2026年11月の実務投入へ向けた「インフラ・統計・ML垂直統合」を目的とした、意図的な集中実装スプリントの成果です。
+
+| Sprint | Period | Focus & Why | Status |
+| :--- | :--- | :--- | :--- |
+| **Sprint 1** | Q1 (Jan-Mar) | **Infrastructure & Stats**: データ品質を自動担保するS3/Terraform基盤と統計エンジンの構築 | ✅ Done |
+| **Sprint 2** | Q2 (Apr-Jun) | **Serverless ETL**: AWS Glue/Lambdaを用いた統計ロジックのサーバーレス化と自動化 | 🏃 In Progress |
+| **Sprint 3** | Q3 (Jul-Sep) | **MLOps Integration**: SageMakerを用いたエンドツーエンドのMLパイプライン構築 | 📅 Planned |
+
 # 🚀 Data Engineering & ML Ops Sprint 2026
 
 2026年11月のデータエンジニア職への転身を見据え、**「インフラのコード化(IaC)」**と**「統計的データ品質保証」**を垂直統合した実戦的開発アセットを構築しています。
