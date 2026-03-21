@@ -52,7 +52,7 @@ graph LR
 | :--- | :--- | :--- | :---: |
 | **Data Engineering** | [01\_DEA: AWS Infrastructure](https://github.com/kou-sato-ds/Mastering-DS-ML-Engineering/tree/main/01_DEA) | **Terraform**によるS3データレイクの自動構築。権限管理とスケーラビリティを考慮したIaC実装。 | ✅ |
 | **Data Science** | [02\_Statistics\_L2: Data Quality](https://github.com/kou-sato-ds/Mastering-DS-ML-Engineering/tree/main/02_Statistics_L2) | **1.5xIQR / 3σ法**を用いた統計的異常値検知。データ標準化（Z-score）による多変量解析の基盤構築。 | ✅ |
-| **ML Engineering** | (Under Construction) | モデルデプロイ、パイプラインの自動化、モニタリングの実装予定。 | 🚧 |
+| **ML Engineering** | (Under Construction) Architecture Design Finalized (Sprint 3 Integration)| モデルデプロイ、パイプラインの自動化、モニタリングの実装予定。 | 🚧 |
 
 -----
 
