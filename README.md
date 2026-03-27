@@ -1,3 +1,4 @@
+
 -----
 
 # 🚀 Data Engineering & ML Ops Sprint 2026
@@ -18,27 +19,34 @@
 
 ### 🛠️ Roadmap Visualization
 
-各スプリントがどのように繋がり、ビジネス価値を生むかのアーキテクチャ図です。
+スプリントごとの技術スタックと、最終的に創出するビジネス価値の相関図です。
 
 ```mermaid
-graph LR
-    subgraph "Sprint 1: Foundation (Current)"
-        A[AWS S3 / Data Lake] --- B[Terraform IaC]
-        B -->|boto3| C[Python Ingestion]
-    end
-    
-    subgraph "Sprint 2: Automation (Next)"
-        C --> D[AWS Glue / Lambda]
-        D --> E[Statistical Pre-processing]
-    end
-    
-    subgraph "Sprint 3: MLOps (Goal)"
-        E --> F[Model Training / SageMaker]
-        F --> G[Business Insights]
+graph TD
+    subgraph Goal [2026 Goal: Career Pivot]
+        G1[2026年11月 データエンジニア転職成功]
     end
 
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style G fill:#bbf,stroke:#333,stroke-width:2px
+    subgraph Tech_Stack [Mastering Tech Stack]
+        T1[Python / boto3]
+        T2[SQL / Athena]
+        T3[Terraform / IaC]
+        T4[Statistics / Math]
+    end
+
+    subgraph Business_Value [Business Impact]
+        V1[意思決定の安定化 / 1.5xIQRクレンジング]
+        V2[分析環境の再現性 / Terraform IaC]
+        V3[コスト最適化 / サーバーレス・ストレージ]
+    end
+
+    G1 --> T4 --> V1
+    G1 --> T1 --> V1
+    G1 --> T3 --> V2
+    G1 --> T2 --> V3
+
+    style Goal fill:#f9f,stroke:#333,stroke-width:2px
+    style Business_Value fill:#bbf,stroke:#333,stroke-width:2px
 ```
 
 -----
@@ -75,7 +83,7 @@ graph LR
 
 ## 📬 Contact
 
-  - **GitHub**: [[https://github.com/kou-sato-ds](https://github.com/kou-sato-ds)]
+  - **GitHub**: [https://github.com/kou-sato-ds](https://github.com/kou-sato-ds)
   - **LinkedIn**: [準備中]
 
 © 2026 kou-sato-ds / Data Engineer Aspirant
