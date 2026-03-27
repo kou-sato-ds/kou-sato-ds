@@ -1,12 +1,13 @@
-````markdown
+-----
 
 # 🚀 Data Engineering & ML Ops Sprint 2026
 
-2026年11月のデータエンジニア職への転換を見据え、**「インフラのコード化(IaC)」**と**「統計的データ品質保証」**を垂直統合した実戦的開発アセットを構築しています。
+2026年11月のデータエンジニア職への転換を見据え、\*\*「インフラのコード化(IaC)」**と**「統計的データ品質保証」\*\*を垂直統合した実戦的開発アセットを構築しています。
 
----
+-----
 
 ## 🚀 2026 Strategic Development Sprint
+
 現在の活動スパイクは、2026年11月の実務投入へ向けた「インフラ・統計・ML垂直統合」を目的とした、意図的な集中実装スプリントの成果です。
 
 | Sprint | Period | Focus & Why | Status |
@@ -16,6 +17,7 @@
 | **Sprint 3** | Q3 (Jul-Sep) | **MLOps Integration**: SageMakerを用いたエンドツーエンドのMLパイプライン構築 | 📅 Planned |
 
 ### 🛠️ Roadmap Visualization
+
 各スプリントがどのように繋がり、ビジネス価値を生むかのアーキテクチャ図です。
 
 ```mermaid
@@ -37,7 +39,7 @@ graph LR
 
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style G fill:#bbf,stroke:#333,stroke-width:2px
-````
+```
 
 -----
 
@@ -73,9 +75,9 @@ graph LR
 
 ## 📬 Contact
 
-  - **GitHub**: [https://github.com/kou-sato-ds]
+  - **GitHub**: [[https://github.com/kou-sato-ds](https://github.com/kou-sato-ds)]
   - **LinkedIn**: [準備中]
 
-© 2026 Moheji / Data Engineer Aspirant
+© 2026 kou-sato-ds / Data Engineer Aspirant
 
-````
+-----
