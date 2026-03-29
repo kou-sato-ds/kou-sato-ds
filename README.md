@@ -10,8 +10,8 @@
 
 | Phase | Strategic Focus | Business Impact / ROI | Status |
 | :--- | :--- | :--- | :--- |
-| **Sprint 1** | **[Infrastructure & Stats](https://github.com/kou-sato-ds/AWS_Infrastructure_as_Code)** | **工数削減 & 信頼性向上**: Terraformによる環境構築の完全自動化。手作業による設定ミスをゼロ化し、分析開始までのリードタイムを大幅縮小。 | ✅ Done |
-| **Sprint 2** | **[ML Pipeline & Quality](https://github.com/kou-sato-ds/SIGNATE_Bento_Forecasting)** | **予測精度 & 運用安定性**: `X.align`による次元保証を実装。データドリフトによる予測崩壊を防ぎ、ビジネスの意思決定を数学的に担保。 | ✅ Done |
+| **Sprint 1** | **[Infrastructure & Stats]([https://github.com/kou-sato-ds/AWS_Infrastructure_as_Code](https://github.com/kou-sato-ds/AWS_IaC_Terraform)** | **工数削減 & 信頼性向上**: Terraformによる環境構築の完全自動化。手作業による設定ミスをゼロ化し、分析開始までのリードタイムを大幅縮小。 | ✅ Done |
+| **Sprint 2** | **[ML Pipeline & Quality]([https://github.com/kou-sato-ds/SIGNATE_Bento_Forecasting](https://github.com/kou-sato-ds/SIGNATE_Bento_Forecasting)** | **予測精度 & 運用安定性**: `X.align`による次元保証を実装。データドリフトによる予測崩壊を防ぎ、ビジネスの意思決定を数学的に担保。 | ✅ Done |
 | **Sprint 3** | **[Advanced Engineering](https://github.com/kou-sato-ds/Kaggle-Playground-S6E2-Heart-Disease-Prediction---9-iterations-of-Trial-Error)** | **仮説検証の高速化**: 9回の反復試行プロセスを形式知化。ドメイン知識を素早く特徴量へ変換し、モデルの収益性を最大化するフローを確立。 | ✅ Done |
 
 ---
@@ -54,9 +54,9 @@ graph TD
 
 | Project | Core Engineering Achievements | Business Value |
 | :--- | :--- | :--- |
-| **[AWS & Terraform](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/kou-sato-ds/AWS_Infrastructure_as_Code)** | **権限管理（IAM）とスケーラビリティ**を考慮したS3データレイクの自動構築。 | セキュアなデータ基盤の即時展開。監査コストの低減。 |
+| **[AWS & Terraform](https://github.com/kou-sato-ds/AWS_IaC_Terraform)** | **権限管理（IAM）とスケーラビリティ**を考慮したS3データレイクの自動構築。 | セキュアなデータ基盤の即時展開。監査コストの低減。 |
 | **[Bento Forecasting](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/kou-sato-ds/SIGNATE_Bento_Forecasting)** | **`X.align`による次元整合性チェック**と、線形+木のハイブリッド予測戦略。 | 予測ロジックのブラックボックス化を防ぎ、現場の納得感を向上。 |
-| **[Heart Disease Prediction](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/kou-sato-ds/Kaggle-Playground-S6E2-Heart-Disease-Prediction---9-iterations-of-Trial-Error)** | **5-Seed Averaging**によるバリデーション設計と9段階の仮説検証。 | 未知のデータに対する予測の堅牢性を担保し、安定的な利益創出に貢献。 |
+| **[Heart Disease Prediction](https://github.com/kou-sato-ds/SIGNATE_Bento_Forecasting)** | **5-Seed Averaging**によるバリデーション設計と9段階の仮説検証。 | 未知のデータに対する予測の堅牢性を担保し、安定的な利益創出に貢献。 |
 
 -----
 
