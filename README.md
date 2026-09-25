@@ -20,8 +20,8 @@
 
 ```mermaid
 graph TD
-    subgraph Goal [2026 Goal: Career Pivot]
-        G1[2026年11月 データエンジニア転職成功]
+    subgraph Goal [Goal: Reliable Data Platform]
+        G1[信頼できるデータ基盤を設計・運用する]
     end
 
     subgraph Achievements [My Core Assets]
