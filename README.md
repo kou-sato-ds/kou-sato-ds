@@ -46,7 +46,9 @@ graph TD
 ---
 
 ## 📬 Contact
-- **GitHub**: [https://github.com/kou-sato-ds](https://github.com/kou-sato-ds)
-- **Desired Career**: Data Engineer / ML Ops Engineer (Available for Nov 2026)
 
-© 2026 kou-sato-ds / Data Engineer Aspirant
+- **GitHub**: https://github.com/kou-sato-ds
+- **Focus**: Data Engineering / Cloud (AWS・GCP) / LLM-assisted automation
+- 技術的な議論・情報交換を歓迎します
+
+© 2026 kou-sato-ds
